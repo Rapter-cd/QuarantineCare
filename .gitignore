@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+*.local
+.vscode
+.idea
+deployment-files.json
+calc-hashes.cjs
+prepare-deployment-payload.cjs
+css-b64.txt
+js-b64.txt
+test-business-logic.js
